@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Referral bonus for support center" max_length="40" name="x_230562_prg_rb_sc_rbsupportcenter" type="collection">
+        <element label="Candidate" mandatory="true" max_length="32" name="u_candidate" reference="sys_user" type="reference"/>
+        <element label="Candidate company number" max_length="40" name="u_candidate_companynum" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate employee id" max_length="40" name="u_candidate_eid" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate status" max_length="40" name="u_candidate_empstatus" read_only="true" type="string"/>
+        <element label="Candidate hired date" max_length="40" name="u_candidate_hireddate" read_only="true" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate job code" max_length="40" name="u_candidate_jobcode" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate name" max_length="40" name="u_candidate_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate job title" max_length="40" name="u_candidate_title" read_only="true" type="string"/>
+        <element label="Requester" mandatory="true" max_length="32" name="u_requester" reference="sys_user" type="reference"/>
+        <element label="Requester company number" max_length="40" name="u_requester_companynum" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester employee id" max_length="40" name="u_requester_eid" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester employee status" max_length="40" name="u_requester_empstatus" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester job code" max_length="40" name="u_requester_jobcode" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester pay grade" max_length="40" name="u_requester_paygrade" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester job title" max_length="40" name="u_requester_title" read_only="true" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Referral bonus for support center</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_230562_prg_rb_sc_rbsupportcenter</name>
+        <number_ref display_value="RBS">15bdb4a9dbee53005be49444ca961959</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">48e3f37714211300651763392430a4cb</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 01:22:28</sys_created_on>
+        <sys_id>fc5df0a9dbee53005be49444ca961905</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Referral bonus for support center</sys_name>
+        <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
+        <sys_update_name>sys_db_object_fc5df0a9dbee53005be49444ca961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 02:34:16</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_230562_prg_rb_sc.rbsupportcenter_user" name="x_230562_prg_rb_sc.rbsupportcenter_user">5dbd3865dbee53005be49444ca961980</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

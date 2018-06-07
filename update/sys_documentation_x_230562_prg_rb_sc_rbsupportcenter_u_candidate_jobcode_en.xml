@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_candidate_jobcode" label="Candidate job code" language="en" table="x_230562_prg_rb_sc_rbsupportcenter">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_candidate_jobcode</element>
+            <help/>
+            <hint/>
+            <label>Candidate job code</label>
+            <language>en</language>
+            <name>x_230562_prg_rb_sc_rbsupportcenter</name>
+            <plural>Candidate job codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-07 06:15:18</sys_created_on>
+            <sys_id>87b04661dba293005be49444ca961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Candidate job code</sys_name>
+            <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
+            <sys_update_name>sys_documentation_x_230562_prg_rb_sc_rbsupportcenter_u_candidate_jobcode_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-07 06:15:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

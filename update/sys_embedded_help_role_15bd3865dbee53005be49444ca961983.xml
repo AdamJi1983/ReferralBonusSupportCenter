@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_230562_prg_rb_sc.rbsupportcenter_user" name="x_230562_prg_rb_sc.rbsupportcenter_user">5dbd3865dbee53005be49444ca961980</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 01:22:27</sys_created_on>
+        <sys_id>15bd3865dbee53005be49444ca961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5dbd3865dbee53005be49444ca961980</sys_name>
+        <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_15bd3865dbee53005be49444ca961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 01:22:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

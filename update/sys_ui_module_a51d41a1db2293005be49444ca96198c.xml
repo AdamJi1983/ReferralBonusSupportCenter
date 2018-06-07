@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Referral Bonus (Support Center)">1edc49a1db2293005be49444ca9619d1</application>
+        <filter table="x_230562_prg_rb_sc_rbsupportcenter">u_requesterDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="u_requester" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>All My Referral Bonus</name>
+        <order>100</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_230562_prg_rb_sc.Requester</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 02:31:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a51d41a1db2293005be49444ca96198c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All My Referral Bonus</sys_name>
+        <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
+        <sys_update_name>sys_ui_module_a51d41a1db2293005be49444ca96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 03:24:21</sys_updated_on>
+        <table>x_230562_prg_rb_sc_rbsupportcenter</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

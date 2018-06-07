@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Referral bonus for support center</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Referral bonus for support center</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d4e3f37714211300651763392430a4cc</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 05:56:03</sys_created_on>
+        <sys_id>f45c39addb6293005be49444ca9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Referral bonus for support center</sys_name>
+        <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
+        <sys_update_name>sys_wizard_answer_f45c39addb6293005be49444ca9619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 05:56:03</sys_updated_on>
+        <table/>
+        <target_url>x_230562_prg_rb_sc_rbsupportcenter.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
