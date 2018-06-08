@@ -8,7 +8,7 @@
         <action_query>false</action_query>
         <action_update>false</action_update>
         <active>true</active>
-        <add_message>true</add_message>
+        <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
@@ -16,13 +16,13 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_230562_prg_rb_sc_rbsupportcenter">u_requesterISEMPTY^EQ<item endquery="false" field="u_requester" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+        <filter_condition table="x_230562_prg_rb_sc_rbsupportcenter">state=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p style="text-align: center;"><span style="font-size: 12pt; color: #339966; font-family: arial, helvetica, sans-serif;">The request is submitted successfully. When the request is eligible for the bonus, you will receive notification email and HR will start review processing. Before HR review, you can cancel request.</span></p>]]></message>
-        <name>Set Requester info for CommonView</name>
-        <order>100</order>
+        <message/>
+        <name>Set Status for Create My Request</name>
+        <order>200</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -37,21 +37,21 @@
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-06-07 05:19:22</sys_created_on>
+        <sys_created_on>2018-06-08 04:15:38</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>d7dfe9a5db6293005be49444ca961989</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Set Requester info for CommonView</sys_name>
+        <sys_id>238e2ef9db6e13005be49444ca961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Status for Create My Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
-        <sys_update_name>sys_script_d7dfe9a5db6293005be49444ca961989</sys_update_name>
+        <sys_update_name>sys_script_238e2ef9db6e13005be49444ca961975</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-08 04:13:17</sys_updated_on>
-        <template>u_requesterDYNAMIC90d1921e5f510100a9ad2572f2b477fe^u_requester_titleSAMEASu_requester.title^u_requester_eidSAMEASu_requester.x_230562_prgorgcha_employeeid^u_requester_companynumSAMEASu_requester.x_230562_prgorgcha_companynum^u_requester_jobcodeSAMEASu_requester.x_230562_prgorgcha_jobcode^u_requester_paygradeSAMEASu_requester.x_230562_prgorgcha_paygrade^u_requester_empstatusSAMEASu_requester.x_230562_prgorgcha_empstatus^EQ</template>
+        <sys_updated_on>2018-06-08 04:15:38</sys_updated_on>
+        <template>state=2^EQ</template>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=d7dfe9a5db6293005be49444ca961989"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=238e2ef9db6e13005be49444ca961975"/>
 </record_update>

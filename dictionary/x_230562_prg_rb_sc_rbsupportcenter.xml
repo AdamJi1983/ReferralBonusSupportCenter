@@ -6,6 +6,7 @@
         <element attributes="edge_encryption_enabled=true" label="Candidate employee id" max_length="40" name="u_candidate_eid" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Candidate status" max_length="40" name="u_candidate_empstatus" read_only="true" type="string"/>
         <element label="Candidate hired date" max_length="40" name="u_candidate_hireddate" read_only="true" type="glide_time"/>
+        <element label="Candidate exempt" max_length="40" name="u_candidate_isexempt" read_only="true" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Candidate job code" max_length="40" name="u_candidate_jobcode" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Candidate name" max_length="40" name="u_candidate_name" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Candidate job title" max_length="40" name="u_candidate_title" read_only="true" type="string"/>
