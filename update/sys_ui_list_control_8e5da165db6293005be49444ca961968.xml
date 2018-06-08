@@ -32,7 +32,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8e5da165db6293005be49444ca961968</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>x_230562_prg_rb_sc_rbsupportcenter</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
@@ -40,6 +40,6 @@
         <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
         <sys_update_name>sys_ui_list_control_8e5da165db6293005be49444ca961968</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-07 04:57:56</sys_updated_on>
+        <sys_updated_on>2018-06-08 05:12:58</sys_updated_on>
     </sys_ui_list_control>
 </record_update>

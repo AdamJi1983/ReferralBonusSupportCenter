@@ -4,152 +4,167 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>586beda1db6293005be49444ca961943</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>a75cba75dbae13005be49444ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>dc6beda1db6293005be49444ca961943</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>2f5cba75dbae13005be49444ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_candidate</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>506beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>af5cba75dbae13005be49444ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_candidate.title</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>d06beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>235cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_candidate.x_230562_prgorgcha_jobcode</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>546beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>a35cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_candidate.x_230562_prgorgcha_empstatus</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>d46beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>275cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_candidate_hireddate</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>586beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>a75cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_requester</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>d86beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>2b5cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>opened_by</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <element>u_requester.x_230562_prgorgcha_empstatus</element>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>5c6beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>ab5cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>opened_at</element>
-            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9c6beda1db6293005be49444ca961942</list_id>
+            <element>opened_by</element>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
-            <sys_id>dc6beda1db6293005be49444ca961944</sys_id>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>2f5cba75dbae13005be49444ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="x_230562_prg_rb_sc_rbsupportcenter" element="NULL" name="x_230562_prg_rb_sc_rbsupportcenter" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2f5cba75dbae13005be49444ca96191e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
+            <sys_id>af5cba75dbae13005be49444ca961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -163,10 +178,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-07 04:42:00</sys_created_on>
+            <sys_created_on>2018-06-08 05:14:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9c6beda1db6293005be49444ca961942</sys_id>
+            <sys_id>2f5cba75dbae13005be49444ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_230562_prg_rb_sc_rbsupportcenter</sys_name>
             <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
@@ -174,7 +189,7 @@
             <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
             <sys_update_name>sys_ui_list_x_230562_prg_rb_sc_rbsupportcenter_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-07 04:42:00</sys_updated_on>
+            <sys_updated_on>2018-06-08 05:14:19</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

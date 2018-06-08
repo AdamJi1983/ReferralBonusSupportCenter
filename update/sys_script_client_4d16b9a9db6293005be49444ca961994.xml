@@ -59,6 +59,16 @@
 		{
 			g_form.setValue('u_candidate_isexempt', 'false');
 		}
+		
+		var candidatehd = new Date(hireddate[0].getAttribute("value"));
+		var serverTime = response.responseXML.getElementsByTagName("CurrentDateTime");
+		var currrentdate = new Date(serverTime[0].getAttribute("value"));
+		var distance = (currrentdate - candidatehd)/(1000*60*60*24);
+		//alert(distance);
+		if(distance > 90)
+		{
+			alert("Please note the referral bonus is eligible for the candidate hired within 90 days.");
+		}
 	}
    //Type appropriate comment here, and begin script below
    
@@ -69,7 +79,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4d16b9a9db6293005be49444ca961994</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_name>Present Candidate Information</sys_name>
         <sys_overrides/>
         <sys_package display_value="Referral Bonus For Support Center" source="x_230562_prg_rb_sc">02dcbc69dbee53005be49444ca96193d</sys_package>
@@ -77,7 +87,7 @@
         <sys_scope display_value="Referral Bonus For Support Center">02dcbc69dbee53005be49444ca96193d</sys_scope>
         <sys_update_name>sys_script_client_4d16b9a9db6293005be49444ca961994</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-08 03:31:29</sys_updated_on>
+        <sys_updated_on>2018-06-08 06:52:53</sys_updated_on>
         <table>x_230562_prg_rb_sc_rbsupportcenter</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
